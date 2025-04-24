@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "type": "Assassin"
+    },
+    {
+      "id": 2,
+      "type": "Tank"
+    },
+    {
+      "id": 3,
+      "type": "Archer"
+    },
+    {
+        "id": 4,
+        "type": "Magicien"
+    }
+  ]
