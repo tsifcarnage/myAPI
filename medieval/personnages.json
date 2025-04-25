@@ -7,7 +7,7 @@
         "mana": 98,
         "power": 87,
         "type_id": 2,
-        "type_name": "Tank"
+        "type": "Tank"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "mana": 0,
         "power": 50,
         "type_id": 3,
-        "type_name": "Archer"
+        "type": "Archer"
     },
     {
         "id": 3,
@@ -27,6 +27,6 @@
         "mana": 99,
         "power": 87,
         "type_id": 1,
-        "type_name": "Assassin"
+        "type": "Assassin"
     }
 ]

@@ -1,18 +1,18 @@
 [
     {
       "id": 1,
-      "type": "Assassin"
+      "type_name": "Assassin"
     },
     {
       "id": 2,
-      "type": "Tank"
+      "type_name": "Tank"
     },
     {
       "id": 3,
-      "type": "Archer"
+      "type_name": "Archer"
     },
     {
         "id": 4,
-        "type": "Magicien"
+        "type_name": "Magicien"
     }
   ]
