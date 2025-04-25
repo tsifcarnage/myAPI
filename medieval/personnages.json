@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Tony",
+        "image": "h-tank.jpg",
+        "health": 65,
+        "mana": 98,
+        "power": 87,
+        "type_id": 2,
+        "type_name": "Tank"
+    },
+    {
+        "id": 2,
+        "name": "Clement",
+        "image": "h-archer.jpg",
+        "health": 100,
+        "mana": 0,
+        "power": 50,
+        "type_id": 3,
+        "type_name": "Archer"
+    },
+    {
+        "id": 3,
+        "name": "Leon",
+        "image": "h-assassin.jpg",
+        "health": 65,
+        "mana": 99,
+        "power": 87,
+        "type_id": 1,
+        "type_name": "Assassin"
+    }
+]
